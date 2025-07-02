@@ -32,11 +32,16 @@ text-align: center;
 color: #fff;
 }
 
+.main-section {
+  padding: 100px 0;
+}
+
 h1 {
   font-weight: 700;
   font-size: 44px;
   text-transform: uppercase;
   color: #2f2e41;
+  margin-bottom: 70px;
 }
 
 .card {
@@ -45,6 +50,7 @@ h1 {
   width: 370px;
   height: 552px;
   background-color: #fff;
+  padding: 46px 20px;
 }
 
 .card-title {
@@ -54,6 +60,11 @@ letter-spacing: -0.02em;
 text-transform: uppercase;
 text-align: center;
 color: #2f2e41;
+margin-bottom: 40px;
+}
+
+.card-img {
+margin-bottom: 36px;
 }
 
 .card-text {
